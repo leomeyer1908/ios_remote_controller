@@ -1,0 +1,9 @@
+Package: com.yourcompany.ios_remote_controller
+Name: ios_remote_controller
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Tweak that allows you to programtically simulate ios touch and button clicks.
+Maintainer: leo
+Author: leo
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
